@@ -1,6 +1,6 @@
 # Wellington-Bus-Network-COMP261
 
-This is an Assignment for COMP-261 2022 where I used JavaFX to represent the Wellington bus and Train Network through the use of Metlink's data.
+This is an Assignment for COMP-261 2022 at Victoria University of Wellington. I used JavaFX to represent the Wellington bus and Train Network through the use of Metlink's data.
 Downloading JavaFX might be essential for running the code.
 The screenshot below shows the program in execution. 
 
